@@ -14,9 +14,9 @@ console.log(age);
 console.log(isStudent);
 console.log(programmingLanguages);
 // 
-let age = 25;
-let isStudent = true;
-let programmingLanguages = "Javascript";
+age = 25;
+isStudent = true;
+programmingLanguages = "Javascript";
 console.log(name);
 console.log(age);
 console.log(isStudent);
